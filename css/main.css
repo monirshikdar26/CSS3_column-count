@@ -1,0 +1,8 @@
+.box{
+    border: 2px solid black;
+    text-align: justify;
+    column-count: 3;
+    column-gap: 50px;
+    column-rule-width: 2px;
+    column-rule-style: solid;
+}
